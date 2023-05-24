@@ -1,0 +1,18 @@
+body{
+  background-color:darkkhaki;
+  background-image: url(../images/womendesigner.webp);
+  background-repeat: no-repeat;
+  background-position: center;                           
+}
+h1{
+  color:burlywood;
+  background-color: blueviolet;                            
+}
+.using-border3{
+  border: 5px solid darkorange; 
+  margin-top: 500px;
+  width: 500px;
+  height: 30px;
+  text-align: center;
+  border-radius: 8px;                         
+}

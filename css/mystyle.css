@@ -1,0 +1,23 @@
+/*external css*/
+body{
+   background-color:lightsalmon ;
+   background-image: url("../images/webdesign.jpg");  
+   background-repeat: no-repeat; 
+   background-position: center;                        
+}
+h1{
+  color: forestgreen;
+  background-color: chartreuse;                            
+}
+.using-border{
+  /*border-style: solid;*/
+  width: 250px; 
+  height: 25px; 
+  border: 5px solid purple; 
+  border-radius: 9px; 
+  margin-top: 30rem; 
+  margin-left: 50px; 
+  /*padding-top: 20px;
+  padding-left: 20px;*/ 
+  text-align:center;                  
+}

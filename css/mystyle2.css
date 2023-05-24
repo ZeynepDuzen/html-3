@@ -1,0 +1,19 @@
+body{
+   background-color: bisque; 
+   background-image: url(../images/webdesign-exercise.jpg);
+   background-repeat: no-repeat;  
+   background-position: center;                        
+}
+h1{
+  color:chocolate; 
+  background-color:darkmagenta;                           
+}
+.using-border2{
+  border: 3px solid darkkhaki;
+  margin-top: 500px;
+  border-radius: 9px;
+  width: 500px;
+  height: 30px;
+  text-align: center;
+  padding-top: 4px;
+}
