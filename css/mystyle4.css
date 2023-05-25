@@ -1,0 +1,31 @@
+body{
+  background-color:darksalmon;                            
+}
+h2{
+  background-color:darkseagreen; 
+  color: blanchedalmond;                           
+}
+.using-border4{
+   border: 5px solid darkorchid;
+   border-radius: 9px;  
+   width: 500px;
+   height: 100px; 
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin-top: 100px;
+   margin-left: 50px;                     
+}
+.using-span{
+  border: 2px solid darkgreen; 
+  border-radius: 5px;
+  background-color: beige;
+  text-transform: capitalize; 
+  letter-spacing: 3px;
+  line-height: 4;                          
+}
+.using-img{
+   width: 400px;
+   height: auto; 
+                            
+}

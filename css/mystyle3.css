@@ -1,18 +1,42 @@
 body{
   background-color:darkkhaki;
-  background-image: url(../images/womendesigner.webp);
+  /*background-image: url(../images/womendesigner.webp);*/
   background-repeat: no-repeat;
-  background-position: center;                           
+  background-position: center; 
 }
-h1{
+h1{                            
   color:burlywood;
   background-color: blueviolet;                            
 }
 .using-border3{
   border: 5px solid darkorange; 
-  margin-top: 500px;
   width: 500px;
-  height: 30px;
+  height: 200px;
   text-align: center;
-  border-radius: 8px;                         
+  border-radius: 8px; 
+  margin: auto; 
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;         
+}
+.span-css{
+  color:darkblue;
+  font-style: italic;
+  font-size: large;  
+  border: 2px solid darkorchid;
+  border-radius: 5px; 
+  background-color: beige; 
+  padding: 1px; 
+  text-transform: capitalize; 
+  letter-spacing: 2px;  
+  line-height: 2; 
+  font-family:Arial, Helvetica, sans-serif;
+  /*display : inline span özelliği ile default olarak zaten
+  kullanılır.Span etiketi kullandıysak display: inline 
+  yazmamıza gerek yoktur. Değişiklik yapan : 
+  display: block ve display: inline-block*/
+}
+.img-using{
+  margin-top: 70px;                                                   
 }
